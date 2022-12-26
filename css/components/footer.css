@@ -1,0 +1,17 @@
+.footer {
+  background-color: black;
+  height: 200px;
+  padding: 60px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.links p {
+  color: white;
+}
+
+.links a {
+  color: rgb(165, 237, 165);
+  font-size: larger;
+  font-weight: bold;
+}
